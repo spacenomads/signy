@@ -1,0 +1,2 @@
+# signy
+Email signature generator
